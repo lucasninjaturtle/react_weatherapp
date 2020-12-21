@@ -1,0 +1,16 @@
+.ciudad{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-color: red;
+    border: 2rem;
+    border-style: solid;
+   
+    
+}
+.info {
+    border-color: red;
+    margin: 10px;
+   
+}
